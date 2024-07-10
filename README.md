@@ -7,5 +7,5 @@ https://drive.google.com/file/d/10Fs_2oUPkoa2cItcgQ1lFDdqtN9BKv-_/view?usp=drive
 
 # ScreenShot
 ---
-![gameplayFootage](https://github.com/GatsLee/Gomoku_Unity/main/Screenshot/gameplayFootage1.png)
-![gameplayFootage](https://github.com/GatsLee/Gomoku_Unity/main/Screenshot/gameplayFootage2.png)
+![gameplayFootage](https://github.com/GatsLee/Gomoku_Unity/master/Screenshot/gameplayFootage1.png)
+![gameplayFootage](https://github.com/GatsLee/Gomoku_Unity/master/Screenshot/gameplayFootage2.png)
